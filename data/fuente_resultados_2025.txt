@@ -1,0 +1,5 @@
+provincias_2025.csv: resultados de Diputados Nacionales, 26/10/2025, escrutinio provisorio (98,85% de mesas), tres fuerzas mas votadas por distrito.
+Fuente: https://www.c5n.com/politica/elecciones-legislativas-resultado-provincias-26-10-2025
+Total nacional (Diputados): LLA 40,66% | Fuerza Patria 33,79% | Provincias Unidas 8,19% | FIT-U 3,90%
+Fuente: tabla de resultados de "2025 Argentine legislative election" (copia de Wikipedia, marzo 2026): https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/2025_Argentine_legislative_election
+caba_mayo_2025.csv: eleccion legislativa porteña 18/05/2025. Fuente: https://chequeado.com/el-explicador/elecciones-legislativas-2025-en-caba-de-un-total-de-11-encuestas-relevadas-solo-3-daban-como-ganador-a-manuel-adorni/
